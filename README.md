@@ -15,3 +15,7 @@ The details of the user interface are shown to the user. The user has to select 
      d. Option to navigate back to the main context
 
 3. Third option to closes the application
+
+
+### Sprint Planning
+https://trello.com/b/H0KHt1Du/lockedme
