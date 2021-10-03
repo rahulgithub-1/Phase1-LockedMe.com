@@ -19,3 +19,18 @@ The details of the user interface are shown to the user. The user has to select 
 
 ### Sprint Planning
 https://trello.com/b/H0KHt1Du/lockedme
+
+### Technology Used
+Eclipse/IntelliJ: An IDE to code for the application
+
+Java: A programming language to develop the prototype
+
+Git: To connect and push files from the local system to GitHub
+
+GitHub: To store the application code and track its versions
+
+Scrum: An efficient agile framework to deliver the product incrementally
+
+Search and Sort techniques: Data structures used for the project
+
+Specification document: Google Docs
