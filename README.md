@@ -35,6 +35,7 @@ Search and Sort techniques: Data structures used for the project
 
 Specification document: Google Docs
 
-###RUN
+### RUN
 
-#PATH: LockedMe\src\LockedMe.java
+# PATH: 
+LockedMe\src\LockedMe.java
