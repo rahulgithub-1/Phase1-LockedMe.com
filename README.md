@@ -34,3 +34,7 @@ Scrum: An efficient agile framework to deliver the product incrementally
 Search and Sort techniques: Data structures used for the project
 
 Specification document: Google Docs
+
+###RUN
+
+#PATH: LockedMe\src\LockedMe.java
